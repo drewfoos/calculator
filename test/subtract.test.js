@@ -1,5 +1,5 @@
 // subtract.test.js
-const { subtract } = require("../main");
+const { subtract } = require("../main.js");
 
 test("should subtract two numbers correctly", () => {
   expect(subtract(10, 3)).toBe(7);
