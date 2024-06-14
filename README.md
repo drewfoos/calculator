@@ -12,6 +12,7 @@ You can view the live demo of this calculator [here](https://drewfoos.github.io/
 - Responsive design for better usability on different screen sizes.
 - Supports keyboard input for all operations and numbers.
 - Clear button to reset the calculator.
+- This project uses Jest for testing. To run the tests, use the following command in the test folder: npm test
 
 ## Technologies Used
 
@@ -31,26 +32,20 @@ You need to have Node.js and npm installed on your machine. You can download the
 
 1. Clone the repo
 
-   \`\`\`sh
+   \`\`\`
    git clone https://github.com/drewfoos/calculator.git
    \`\`\`
 
 2. Navigate to the project directory
 
-   \`\`\`sh
+   \`\`\`
    cd calculator
    \`\`\`
 
 3. Install npm packages
 
-   \`\`\`sh
-   npm install
    \`\`\`
-
-4. Start the project (if you have a local server setup, otherwise just open \`index.html\` in your browser)
-
-   \`\`\`sh
-   npm start
+   npm install
    \`\`\`
 
 ## Usage
